@@ -28,7 +28,7 @@ epic_tragedy = {
         name: "Juliet", 
         age: "15", 
         status: "alive"
-
+      },
       :heroine_friends => []
    }
 }
